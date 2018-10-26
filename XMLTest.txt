@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<Escenario alto="800" ancho="600">
+	<Ventana x="0" y="0" ancho="800" alto="600" ></Ventana>
+	<Imagenes>
+		<Imagen id="img0001"
+			ruta="spaceshooter\PNG\playerShip1_blue.png"
+			ancho="99" alto="75">
+		</Imagen>
+		<Imagen id="img0002"
+			ruta="spaceshooter\PNG\Power-ups\bolt_gold.png"
+			ancho="19" alto="30">
+		</Imagen>
+		<Imagen id="img0003"
+			ruta="spaceshooter\PNG\Power-ups\pill_yellow.png"
+			ancho="22" alto="21">
+		</Imagen>
+		<Imagen id="img0004"
+			ruta="spaceshooter\PNG\Power-ups\powerupYellow.png"
+			ancho="34" alto="33">
+		</Imagen>
+		<Imagen id="img0005"
+			ruta="spaceshooter\PNG\Power-ups\powerupYellow_bolt.png"
+			ancho="34" alto="33">
+		</Imagen>
+		<Imagen id="img0006"
+			ruta="spaceshooter\PNG\Power-ups\powerupYellow_shield.png"
+			ancho="34" alto="33">
+		</Imagen>
+                <Imagen id="img0007"
+			ruta="spaceshooter\PNG\Power-ups\powerupYellow_star.png"
+			ancho="34" alto="33">
+		</Imagen>
+                <Imagen id="img0008"
+			ruta="spaceshooter\PNG\Power-ups\shield_gold.png"
+			ancho="30" alto="30">
+		</Imagen>
+                <Imagen id="img0009"
+			ruta="spaceshooter\PNG\Power-ups\star_gold.png"
+			ancho="31" alto="30">
+		</Imagen>
+                <Imagen id="img0010"
+			ruta="spaceshooter\PNG\Power-ups\things_gold.png"
+			ancho="32" alto="32">
+		</Imagen>   
+                <Imagen id="img0011"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_big1.png"
+			ancho="101" alto="84">
+		</Imagen>
+                <Imagen id="img0012"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_big2.png"
+			ancho="120" alto="98">
+		</Imagen>
+                <Imagen id="img0013"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_big3.png"
+			ancho="89" alto="82">
+		</Imagen>
+                <Imagen id="img0014"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_big4.png"
+			ancho="98" alto="96">
+		</Imagen>
+                <Imagen id="img0015"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_med1.png"
+			ancho="43" alto="43">
+		</Imagen>
+                <Imagen id="img0016"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_med3.png"
+			ancho="45" alto="40">
+		</Imagen>
+                <Imagen id="img0017"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_small1.png"
+			ancho="28" alto="28">
+		</Imagen>
+                <Imagen id="img0018"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_small2.png"
+			ancho="29" alto="26">
+		</Imagen>
+                <Imagen id="img0019"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_tiny1.png"
+			ancho="18" alto="18">
+		</Imagen>
+                <Imagen id="img0020"
+			ruta="spaceshooter\PNG\Meteors\meteorBrown_tiny2.png"
+			ancho="16" alto="15">
+		</Imagen>
+                <Imagen id="img0021"
+			ruta="spaceshooter\PNG\Lasers\laserBlue01.png"
+			ancho="9" alto="54">
+		</Imagen>
+                <Imagen id="img0022"
+			ruta="spaceshooter\PNG\Lasers\laserBlue02.png"
+			ancho="13" alto="37">
+		</Imagen>
+                <Imagen id="img0023"
+			ruta="spaceshooter\PNG\Lasers\laserBlue03.png"
+			ancho="9" alto="37">
+		</Imagen>
+                <Imagen id="img0024"
+			ruta="spaceshooter\PNG\Lasers\laserBlue04.png"
+			ancho="13" alto="37">
+		</Imagen>
+                <Imagen id="img0025"
+			ruta="spaceshooter\PNG\Lasers\laserBlue05.png"
+			ancho="9" alto="37">
+		</Imagen>
+                <Imagen id="img0026"
+			ruta="spaceshooter\PNG\Lasers\laserBlue06.png"
+			ancho="13" alto="37">
+		</Imagen>
+                <Imagen id="img0027"
+			ruta="spaceshooter\PNG\Lasers\laserBlue07.png"
+			ancho="13" alto="37">
+		</Imagen>
+                <Imagen id="img0028"
+			ruta="spaceshooter\PNG\Lasers\laserBlue08.png"
+			ancho="48" alto="46">
+		</Imagen>
+                <Imagen id="img0029"
+			ruta="spaceshooter\PNG\Lasers\laserBlue09.png"
+			ancho="48" alto="46">
+		</Imagen>
+                <Imagen id="img0030"
+			ruta="spaceshooter\PNG\Lasers\laserBlue10.png"
+			ancho="37" alto="37">
+		</Imagen>
+                <Imagen id="img0031"
+			ruta="spaceshooter\PNG\Lasers\laserBlue11.png"
+			ancho="38" alto="37">
+		</Imagen>
+                <Imagen id="img0032"
+			ruta="spaceshooter\PNG\Lasers\laserBlue12.png"
+			ancho="13" alto="57">
+		</Imagen>
+                <Imagen id="img0033"
+			ruta="spaceshooter\PNG\Lasers\laserBlue13.png"
+			ancho="9" alto="57">
+		</Imagen>
+                <Imagen id="img0034"
+			ruta="spaceshooter\PNG\Lasers\laserBlue14.png"
+			ancho="13" alto="57">
+		</Imagen>
+                <Imagen id="img0035"
+			ruta="spaceshooter\PNG\Lasers\laserBlue15.png"
+			ancho="9" alto="57">
+		</Imagen>
+                <Imagen id="img0036"
+			ruta="spaceshooter\PNG\Lasers\laserBlue16.png"
+			ancho="13" alto="54">
+		</Imagen>
+                <Imagen id="img0037"
+			ruta="spaceshooter\Backgrounds\purple.png"
+			ancho="256" alto="256">
+		</Imagen>
+                <Imagen id="img0038"
+			ruta="spaceshooter\Backgrounds\Stars.png"
+			ancho="480" alto="1680">
+		</Imagen>
+                <Imagen id="img0039"
+			ruta="spaceshooter\PNG\Enemies\enemyBlack1.png"
+			ancho="93" alto="84">
+		</Imagen>
+                <Imagen id="img0040"
+			ruta="spaceshooter\PNG\Enemies\enemyBlue2.png"
+			ancho="104" alto="84">
+		</Imagen>
+                <Imagen id="img0041"
+			ruta="spaceshooter\PNG\Enemies\enemyGreen3.png"
+			ancho="103" alto="84">
+		</Imagen>
+                <Imagen id="img0042"
+			ruta="spaceshooter\PNG\Enemies\enemyRed5.png"
+			ancho="97" alto="84">
+		</Imagen>
+                <Imagen id="img0043"
+			ruta="spaceshooter\PNG\Enemies\BigBoss.png"
+			ancho="921" alto="561">
+		</Imagen>
+                <Imagen id="img0044"
+			ruta="spaceshooter\PNG\Damage\playerShip1_damage1.png"
+			ancho="99" alto="76">
+		</Imagen>
+                <Imagen id="img0045"
+			ruta="spaceshooter\PNG\Damage\playerShip1_damage2.png"
+			ancho="99" alto="76">
+		</Imagen>
+                <Imagen id="img0046"
+			ruta="spaceshooter\PNG\Damage\playerShip1_damage3.png"
+			ancho="99" alto="76">
+		</Imagen>
+                <Imagen id="img0047"
+			ruta="spaceshooter\HitEffect\0.png"
+			ancho="120" alto="120">
+		</Imagen>
+                <Imagen id="img0048"
+			ruta="spaceshooter\HitEffect\1.png"
+			ancho="120" alto="120">
+		</Imagen>
+                <Imagen id="img0049"
+			ruta="spaceshooter\HitEffect\2.png"
+			ancho="120" alto="120">
+		</Imagen>
+                <Imagen id="img0050"
+			ruta="spaceshooter\HitEffect\3.png"
+			ancho="120" alto="120">
+		</Imagen>
+                <Imagen id="img0051"
+			ruta="spaceshooter\HitEffect\4.png"
+			ancho="120" alto="120">
+		</Imagen>
+                <Imagen id="img0052"
+			ruta="spaceshooter\HitEffect\5.png"
+			ancho="120" alto="120">
+		</Imagen>
+                <Imagen id="img0053"
+			ruta="spaceshooter\HitEffect\6.png"
+			ancho="120" alto="120">
+		</Imagen>
+	</Imagenes>
+	<Animaciones>
+		<Animacion id="a0001">
+			<Fotograma id-imagen="img0001" tiempo="200" ></Fotograma>
+		</Animacion>
+		<Animacion id="a0002">
+			<Fotograma id-imagen="img0039" tiempo="200" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0003">
+			<Fotograma id-imagen="img0040" tiempo="200" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0004">
+			<Fotograma id-imagen="img0041" tiempo="200" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0005">
+			<Fotograma id-imagen="img0042" tiempo="200" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0006">
+			<Fotograma id-imagen="img0021" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0022" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0023" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0024" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0025" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0026" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0027" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0028" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0029" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0030" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0031" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0032" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0033" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0034" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0035" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0036" tiempo="100" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0007">
+			<Fotograma id-imagen="img0043" tiempo="200" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0008">
+			<Fotograma id-imagen="img0044" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0045" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0046" tiempo="100" ></Fotograma>
+		</Animacion>
+                <Animacion id="a0009">
+			<Fotograma id-imagen="img0047" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0048" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0049" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0050" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0051" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0052" tiempo="100" ></Fotograma>
+                        <Fotograma id-imagen="img0053" tiempo="100" ></Fotograma>
+		</Animacion>
+	</Animaciones>
+	<Capas>
+		<Capa principal="no" velocidad="1" z="0">
+			<Fondo id-imagen="img0037" repeticion-x="no" repeticion-y="si"> </Fondo>
+		</Capa>
+                <Capa principal="no" velocidad="0.5" z="1">
+			<Fondo id-imagen="img0038" repeticion-x="no" repeticion-y="si"> </Fondo>
+		</Capa>
+	</Capas>
+	<Personajes>
+		<Jugador>
+			<Normal-Quieto id-animacion="a0001"></Normal-Quieto>
+                        <Normal-Avanzar id-animacion="a0001"></Normal-Avanzar>
+                        <Invencible-Quieto id-animacion="a0008"></Invencible-Quieto>
+                        <Invencible-Avanzar id-animacion="a0008"></Invencible-Avanzar>
+		</Jugador>
+		<Enemigos>
+			<Enemigo id="e0001">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0002">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0003">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0004">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0005">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0006">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0007">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0008">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0009">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0010">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0011">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0012">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0013">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0014">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0015">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0016">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0017">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0018">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0019">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0020">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0021">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0022">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0023">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0024">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0025">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0026">
+				<Derecha id-animacion="a0004"></Derecha>
+				<Izquierda id-animacion="a0004"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0027">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0028">
+				<Derecha id-animacion="a0005"></Derecha>
+				<Izquierda id-animacion="a0005"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0029">
+				<Derecha id-animacion="a0003"></Derecha>
+				<Izquierda id-animacion="a0003"></Izquierda>
+			</Enemigo>
+                        <Enemigo id="e0030">
+				<Derecha id-animacion="a0002"></Derecha>
+				<Izquierda id-animacion="a0002"></Izquierda>
+			</Enemigo>
+		</Enemigos>
+		<Activadores>
+			<Activador tipo="disparo" duracion="10000" id-animacion="a0001"></Activador>
+			<Activador tipo="invencible" duracion="5000" id-animacion="a0001"></Activador>
+			<Activador tipo="fantasma" duracion="5000" id-animacion="a0002"></Activador>			
+		</Activadores>
+	</Personajes>
+	<Plataformas>
+		<Plataforma id-imagen="img0004" x="100" y="100" suelo="si">
+			<Arriba activo="si" desde="arriba-hacia-abajo"></Arriba>
+			<Abajo activo="no"></Abajo>
+			<Derecha activo="no"></Derecha>
+			<Izquierda activo="no"></Izquierda>
+		</Plataforma>
+	</Plataformas>
+	<Ubicaciones>
+		<Ubicacion id-personaje="Jugador" x="380" y="100" movimiento="control"></Ubicacion>
+		<Ubicacion id-personaje="e0001" x="100" y="1000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0002" x="100" y="1050" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0003" x="100" y="1100" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0004" x="100" y="1150" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0005" x="700" y="1800" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0006" x="700" y="1850" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0007" x="700" y="1900" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0008" x="700" y="1950" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0009" x="250" y="2100" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0010" x="400" y="2100" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0011" x="550" y="2100" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0012" x="700" y="2100" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0013" x="200" y="2400" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0014" x="400" y="2400" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0015" x="600" y="2400" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0016" x="300" y="2500" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0017" x="500" y="2500" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0018" x="100" y="2800" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0019" x="400" y="2700" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0020" x="700" y="2800" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0021" x="900" y="3000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0022" x="900" y="4000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0023" x="900" y="5000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0024" x="900" y="6000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0025" x="900" y="7000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0026" x="-100" y="3000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0027" x="-100" y="4000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0028" x="-100" y="5000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0029" x="-100" y="6000" movimiento="jugador"></Ubicacion>
+                <Ubicacion id-personaje="e0030" x="-100" y="7000" movimiento="jugador"></Ubicacion>
+	</Ubicaciones>
+</Escenario>
